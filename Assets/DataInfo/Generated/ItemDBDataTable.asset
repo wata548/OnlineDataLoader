@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: ItemDBDataTable
+  m_EditorClassIdentifier: Assembly-CSharp:DataInfo:ItemDBDataTable
+  m_DataTable:
+    dataList:
+    - Key: 2001
+      Value:
+        m_Code: 2001
+        m_Name: "\uBD95\uB300"
+        m_Description: "\uC9C0\uC800\uBD84\uD558\uC9C0\uB9CC \uC0C1\uCC98\uB97C \uAC10\uC300
+          \uC218 \uC788\uC5B4 \uBCF4\uC778\uB2E4. \uC0AC\uC6A9 \uC2DC \uC0DD\uC874\uC758\uC9C0\uAC00
+          25 \uD68C\uBCF5\uB41C\uB2E4."
+        m_HealHP: 25
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 0
+    - Key: 2002
+      Value:
+        m_Code: 2002
+        m_Name: "\uBB3C"
+        m_Description: "\uAE68\uB057\uD55C \uC0DD\uC218 500ml. \uB9C8\uC2DC\uBA74
+          \uC18D\uAE4C\uC9C0 \uAE68\uB057\uD574\uC9C0\uB294 \uB290\uB08C\uC774\uB2E4.
+          \uC0AC\uC6A9 \uC2DC \uC800\uD56D\uB825\uC774 25 \uD68C\uBCF5\uB41C\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 25
+        m_HealsMP: 0
+    - Key: 2003
+      Value:
+        m_Code: 2003
+        m_Name: "\uAD6C\uAE09\uC0C1\uC790"
+        m_Description: "\uB9CE\uC740 \uC591\uC758 \uB2E4\uC591\uD55C \uCE58\uB8CC
+          \uC6A9\uD488\uC774 \uB4E4\uC5B4\uC788\uB2E4. \uC0AC\uC6A9 \uC2DC \uC804\uCCB4\uC758
+          \uC0DD\uC874\uC758\uC9C0\uAC00 20 \uD68C\uBCF5\uB41C\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 20
+        m_HealMP: 0
+        m_HealsMP: 0
+    - Key: 2004
+      Value:
+        m_Code: 2004
+        m_Name: "\uCD08\uCF5C\uB9BF"
+        m_Description: "\uB179\uC544 \uBB3C\uB801\uD574\uC9C4 \uCD08\uCF5C\uB9BF.
+          \uB2E4\uD06C\uCD08\uCF5C\uB9BF\uC778\uC9C0 \uC4F4 \uB9DB\uC774 \uB09C\uB2E4.
+          \uC0AC\uC6A9 \uC2DC \uC804\uCCB4\uC758 \uC0DD\uC874\uC758\uC9C0\uAC00 20
+          \uD68C\uBCF5\uB41C\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 20
+    - Key: 2005
+      Value:
+        m_Code: 2005
+        m_Name: "\uC9C4\uD1B5\uC81C"
+        m_Description: "\uC57D\uD1B5\uC5D0 \uB2F4\uAE34 \uC9C4\uD1B5\uC81C. \uB2E8
+          \uD55C \uC54C\uB9CC \uB4E4\uC5B4\uC788\uB2E4. \uC0AC\uC6A9 \uC2DC \uC0DD\uC874\uC758\uC9C0\uAC00
+          50 \uD68C\uBCF5\uB41C\uB2E4."
+        m_HealHP: 50
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 0
+    - Key: 2006
+      Value:
+        m_Code: 2006
+        m_Name: "\uCEE4\uD53C\uBBF9\uC2A4"
+        m_Description: "\uC774\uC655\uC774\uBA74 \uBB3C\uC5D0 \uD0C0 \uB9C8\uC2DC\uB294
+          \uAC83\uC774 \uC88B\uC9C0\uB9CC... \uC0C1\uD669\uC774 \uC0C1\uD669\uC774\uB2C8
+          \uC5B4\uCA54 \uC218 \uC5C6\uB2E4. \uACFC\uB3C4\uD55C \uCE74\uD398\uC778
+          \uC12D\uCDE8\uB294 \uB3C5\uC774 \uB429\uB2C8\uB2E4, \uC870\uC2EC! \uC0AC\uC6A9
+          \uC2DC \uC800\uD56D\uB825\uC774 50 \uD68C\uBCF5\uB41C\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 50
+        m_HealsMP: 0
+    - Key: 2007
+      Value:
+        m_Code: 2007
+        m_Name: PPO-003
+        m_Description: "\uC5F0\uBD84\uD64D\uC0C9\uC758 \uC57D. \uC5B4\uCA50\uC9C0
+          \uB538\uAE30\uB9DB\uC774 \uB0A0 \uAC83 \uAC19\uB2E4. \uD558\uC9C0\uB9CC
+          \uB9C8\uC2DC\uB294 \uAC74 \uC5ED\uC2DC \uBD88\uC548\uD558\uB2C8\uAE4C...
+          \uC0AC\uC6A9 \uBD88\uAC00."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 0
+    - Key: 4001
+      Value:
+        m_Code: 4001
+        m_Name: "B4 \uCE74\uB4DC\uD0A4"
+        m_Description: "\uC9C1\uC6D0 \uC804\uC6A9 \uCE74\uB4DC\uD0A4. \uC9C0\uD558
+          4\uCE35\uC5D0 \uC788\uB294 \uC7A0\uAE34 \uBB38\uC740 \uC804\uBD80 \uC774
+          \uCE74\uB4DC\uD0A4\uB85C \uC5F4 \uC218 \uC788\uB2E4. \uC774\uAC78 \uC0AC\uC6A9\uD558\uBA74
+          \uC9C0\uD558 3\uCE35\uC73C\uB85C \uC62C\uB77C\uAC08 \uC218 \uC788\uC744
+          \uAC83 \uAC19\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 0
+    - Key: 4002
+      Value:
+        m_Code: 4002
+        m_Name: "\uC9C0\uD558 \uC5D8\uB9AC\uBCA0\uC774\uD130 \uCE74\uB4DC\uD0A4"
+        m_Description: "\uC9C0\uD558 \uC804\uC6A9 \uC5D8\uB9AC\uBCA0\uC774\uD130
+          \uCE74\uB4DC\uD0A4. \uC5D8\uB9AC\uBCA0\uC774\uD130\uC5D0 \uD0D1\uC2B9\uD558\uAE30
+          \uC704\uD574\uC11C\uB294 \uC774 \uCE74\uB4DC\uD0A4\uAC00 \uD544\uC218\uB85C
+          \uD544\uC694\uD558\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 0
+    - Key: 4003
+      Value:
+        m_Code: 4003
+        m_Name: "B2 \uCE74\uB4DC\uD0A4"
+        m_Description: "\uC9C1\uC6D0 \uC804\uC6A9 \uCE74\uB4DC\uD0A4. \uC9C0\uD558
+          2\uCE35\uC5D0 \uC788\uB294 \uC7A0\uAE34 \uBB38\uC740 \uC804\uBD80 \uC774
+          \uCE74\uB4DC\uD0A4\uB85C \uC5F4 \uC218 \uC788\uB2E4. \uC774\uAC78 \uC0AC\uC6A9\uD574
+          \uC9C0\uD558 1\uCE35\uC73C\uB85C \uC62C\uB77C\uAC08 \uC218 \uC788\uC744
+          \uAC83 \uAC19\uB2E4."
+        m_HealHP: 0
+        m_HealsHP: 0
+        m_HealMP: 0
+        m_HealsMP: 0
